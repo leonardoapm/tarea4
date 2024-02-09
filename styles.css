@@ -1,3 +1,16 @@
 img {
     width: 30%;
 }
+
+/*
+
+1.Vincular el css al html: mediante la <link> en el html y que este en la seccion de "head".
+
+2.Sintaxis CSS: un conjunto de reglas de como se estructuran.
+
+3. Concepto importante de css: los selectores son los elementos que dan estilos al html y la herencia son los 
+elementos que estan dentro una etiqueta y herencia sus propiedades a sus hijos
+
+4.Especifidad: las categoria de etiquetas, clases, id, inline, importart; Tiene un valor cada uno.
+
+*/
